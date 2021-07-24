@@ -8,6 +8,8 @@
 ⚛️ [My site](https://danielmeloramos.com.br) <br>
 💼 [LinkedIn](https://www.linkedin.com/in/daniel-melo-ramos) <br>
 🐦 [Twitter](https://twitter.com/DanielMeloRamo1) <br>
+📺 [Youtube](https://www.youtube.com/channel/UC3vWUTX7VgTAJCmEIkp_cqQ) <br>
+📷 [Instagram](https://www.instagram.com/danielmeloramos) <br>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=danielmeloramos&count_private=true&show_icons=true&card_width=600&theme=buefy" />
