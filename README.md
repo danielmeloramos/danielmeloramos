@@ -5,5 +5,13 @@
 
 ### You can find me on
 
-🐦 [Twitter](https://twitter.com/DanielMeloRamo1) <br>
 ⚛️ [My site](https://danielmeloramos.com.br) <br>
+💼 [LinkedIn](https://www.linkedin.com/in/daniel-melo-ramos) <br>
+🐦 [Twitter](https://twitter.com/DanielMeloRamo1) <br>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=danielmeloramos&count_private=true&show_icons=true&card_width=600&theme=buefy" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielmeloramos&hide=css,html&theme=buefy" />
+</a>
