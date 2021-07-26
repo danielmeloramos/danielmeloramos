@@ -2,8 +2,8 @@
 
 💻 Software Engineer <br>
 🏡 Brazilian, Based in Lages, SC 🌎 <br>
-🏆 &nbsp; Certified ScrumMaster CSM <br>
-🏆 &nbsp; Kanban Management Professional KMP <br>
+🏆 &nbsp; Certified ScrumMaster - CSM <br>
+🏆 &nbsp; Kanban Management Professional - KMP <br>
 
 
 ### You can find me on
