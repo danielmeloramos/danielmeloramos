@@ -1,7 +1,10 @@
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm Daniel!
 
 💻 Software Engineer <br>
-🏡 Brazilian, Based in Lages, SC 🌎
+🏡 Brazilian, Based in Lages, SC 🌎 <br>
+🏆 &nbsp; Certified ScrumMaster CSM <br>
+🏆 &nbsp; Kanban Management Professional KMP <br>
+
 
 ### You can find me on
 
