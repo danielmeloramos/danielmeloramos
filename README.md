@@ -19,7 +19,3 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielmeloramos&hide=css,html&theme=buefy" />
 </a>
-
-<div> 
-    ![Snake animation](https://github.com/danielmeloramos/danielmeloramos/blob/output/github-contribution-grid-snake.svg) 
-</div>
